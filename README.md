@@ -12,6 +12,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jakub-olcha/](https://www.linkedin.com/in/jakub-olcha/)
 
+- 💻 My main projects: 
+  - [TeamMe](https://github.com/olo75jg21/teamMe)
+  - [Expense-tracker](https://github.com/olo75jg21/expense-tracker)
+  - [ReceiptScanner](https://github.com/olo75jg21/ReceiptScanner)
+  - [Bevri restaurant clone](https://github.com/olo75jg21/bevri-restaurant-clone)
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jakub-olcha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-olcha" height="30" width="40" /></a>
