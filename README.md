@@ -12,6 +12,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jakub-olcha/](https://www.linkedin.com/in/jakub-olcha/)
 
+- 🧠 I'm currently working on: Flatie
+  - [Backend (.NET)](https://github.com/olo75jg21/flatie-api)
+  - [Frontend (VueJS)](https://github.com/olo75jg21/flatie-ui)
+
 - 💻 My main projects: 
   - [TeamMe](https://github.com/olo75jg21/teamMe)
   - [Expense-tracker](https://github.com/olo75jg21/expense-tracker)
