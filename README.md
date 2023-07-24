@@ -21,6 +21,7 @@
   - [Expense-tracker](https://github.com/olo75jg21/expense-tracker)
   - [ReceiptScanner](https://github.com/olo75jg21/ReceiptScanner)
   - [Bevri restaurant clone](https://github.com/olo75jg21/bevri-restaurant-clone)
+  - [Pomodoro Timer](https://github.com/olo75jg21/pomodoro)
   
 
 <h3 align="left">Connect with me:</h3>
