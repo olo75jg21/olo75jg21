@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jakub-olcha/](https://www.linkedin.com/in/jakub-olcha/)
 
-- 🧠 I'm currently working on: Flatie
+- 🧠 I'm currently working on: **Flatie**
   - [Backend (.NET)](https://github.com/olo75jg21/flatie-api)
   - [Frontend (VueJS)](https://github.com/olo75jg21/flatie-ui)
 
