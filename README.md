@@ -17,11 +17,11 @@
   - [Frontend (React)](https://github.com/olo75jg21/flatie-ui)
 
 - 💻 My main projects: 
-  - [TeamMe](https://github.com/olo75jg21/teamMe)
-  - [Expense-tracker](https://github.com/olo75jg21/expense-tracker)
-  - [ReceiptScanner](https://github.com/olo75jg21/ReceiptScanner)
-  - [Bevri restaurant clone](https://github.com/olo75jg21/bevri-restaurant-clone)
-  - [Pomodoro Timer](https://github.com/olo75jg21/pomodoro)
+  - [TeamMe](https://github.com/olo75jg21/teamMe) - [React, Node.js, MongoDB]
+  - [Expense-tracker](https://github.com/olo75jg21/expense-tracker) - [React, Node.js, MongoDB]
+  - [ReceiptScanner](https://github.com/olo75jg21/ReceiptScanner) - [Flutter]
+  - [Bevri restaurant clone](https://github.com/olo75jg21/bevri-restaurant-clone) - [HTML, CSS]
+  - [Pomodoro Timer](https://github.com/olo75jg21/pomodoro) - [React]
   
 
 <h3 align="left">Connect with me:</h3>
