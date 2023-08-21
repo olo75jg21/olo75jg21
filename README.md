@@ -14,7 +14,7 @@
 
 - 🧠 I'm currently working on: **Flatie**
   - [Backend (.NET)](https://github.com/olo75jg21/flatie-api)
-  - [Frontend (VueJS)](https://github.com/olo75jg21/flatie-ui)
+  - [Frontend (React)](https://github.com/olo75jg21/flatie-ui)
 
 - 💻 My main projects: 
   - [TeamMe](https://github.com/olo75jg21/teamMe)
